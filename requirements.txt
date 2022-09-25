@@ -6,3 +6,5 @@ MarkupSafe==2.1.1
 pip==22.0.0
 setuptools==59.6.0
 Werkzeug==2.1.2
+redis
+ipython
