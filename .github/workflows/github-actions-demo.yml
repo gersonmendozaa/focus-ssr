@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: gmendoza97/focus-spa:latest
+          tags: gmendoza97/focus-ssr:latest
